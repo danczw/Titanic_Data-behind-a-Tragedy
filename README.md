@@ -1,5 +1,5 @@
 # Titanic_Data-behind-a-Tragedy
-Predicting survival based on passenger features.
+Predicting survival of a disaster based on passenger features.
 
 The RMS Titanic was a passenger ship of the British shipping company White Star Line. She was built in Belfast at the shipyard of Harland & Wolff and was the largest ship in the world when it was commissioned on April 2, 1912. Because of the circumstances associated with her sinking, the Titanic is one of the most famous ships in history.
 
